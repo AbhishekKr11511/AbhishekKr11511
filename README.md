@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 👨‍💻 All of my projects are available at [https://1000xcreations.netlify.app](https://1000xcreations.netlify.app)
+- 👨‍💻 All of my projects are available at [Visit My Portfolio](https://1000xcreations.netlify.app)
 
 - 💬 Ask me about **React, Node, Express, MongoDB**
 
