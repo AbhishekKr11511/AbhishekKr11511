@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **abhishek.kr.11511@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QN0wBDKSGFwudoSHuI4XGbW9z0RyznVV/view?usp=sharing](https://drive.google.com/file/d/1QN0wBDKSGFwudoSHuI4XGbW9z0RyznVV/view?usp=sharing)
+- 📄 Know about my experiences - [Download My Resume](https://drive.google.com/file/d/1QN0wBDKSGFwudoSHuI4XGbW9z0RyznVV/view?usp=sharing)
 
-- ⚡ Fun fact **I can type at speeds of 150+ words per minute**
+- ⚡ Fun fact - **I can type at speeds of 150+ words per minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
