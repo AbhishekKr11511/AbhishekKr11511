@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkr11511" alt="abhishekkr11511" /></a> </p>
 
-- 🔭 I’m currently working on **Fullstack Discord Clone**
+###- 🔭 I’m currently working on **Fullstack Discord Clone**
 
-- 🌱 I’m currently learning **Next.js 14, TypeScript Docker**
+###- 🌱 I’m currently learning **Next.js 14, TypeScript Docker**
 
-- 👯 I’m looking to collaborate on **FullStack Projects**
+###- 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 👨‍💻 All of my projects are available at [Visit My Portfolio](https://1000xcreations.netlify.app)
+###- 👨‍💻 All of my projects are available at [Visit My Portfolio](https://1000xcreations.netlify.app)
 
-- 💬 Ask me about **React, Node, Express, MongoDB**
+###- 💬 Ask me about **React, Node, Express, MongoDB**
 
-- 📫 How to reach me **abhishek.kr.11511@gmail.com**
+###- 📫 How to reach me **abhishek.kr.11511@gmail.com**
 
-- 📄 Know about my experiences - [Download My Resume](https://drive.google.com/file/d/1QN0wBDKSGFwudoSHuI4XGbW9z0RyznVV/view?usp=sharing)
+###- 📄 Know about my experiences - [Download My Resume](https://drive.google.com/file/d/1QN0wBDKSGFwudoSHuI4XGbW9z0RyznVV/view?usp=sharing)
 
-- ⚡ Fun fact - **I can type at speeds of 150+ words per minute**
+###- ⚡ Fun fact - **I can type at speeds of 150+ words per minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
